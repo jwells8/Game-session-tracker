@@ -1,4 +1,4 @@
-#Sample data to test with
+--Sample data to test with
 
 INSERT INTO games (game_title, game_genre, game_platform)
 VALUES('Doom: The Dark Ages', 'FPS', 'Playstation 5'),
