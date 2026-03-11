@@ -1,4 +1,4 @@
-#Database setup
+--Database setup
 
 DROP TABLE IF EXISTS sessions;
 DROP TABLE IF EXISTS games;
